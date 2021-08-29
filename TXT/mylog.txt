@@ -6,3 +6,5 @@ ZCZC W00 02 L11 Assignment #1
 ZCZC W00 05 L14 Assignment #4
 ZCZC W00 40 L02 ZOOM meetings related
 ZCZC W00 10 L73 Gaming
+ZCZC W00 480 L84 Relax, Rest, and Sleep
+ZCZC W00 120 L02 ZOOM meetings related
