@@ -21,3 +21,9 @@ Physical Address Space and Virtual Address Space
 
 5. [Structure of Page Table in Operating Systems](https://www.studytonight.com/operating-system/structure-of-page-table-in-operating-systems)<br>
 The data structure that is used by the virtual memory system in the operating system of a computer in order to store the mapping between physical and logical addresses is commonly known as Page Table.
+
+6. [What are PID and PPID?](https://www.2daygeek.com/check-find-parent-process-id-pid-ppid-linux/)
+When working on a Linux system, sometimes you need to figure out what processes are running and which PID or PPID is tied to it. It can be used for several purposes.
+
+7. [C# language: Concurrency(multithreading)](https://medium.com/@sawomirkowalski/c-language-concurrency-multithreading-40103c82284)
+Typically, applications or programs on a computer or phone perform more than one operation, this is called concurrency, we will first discuss the basics of concurrency, ie threads and tasks, and in the next lesson we will go to asynchrony.
