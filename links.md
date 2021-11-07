@@ -27,3 +27,6 @@ When working on a Linux system, sometimes you need to figure out what processes 
 
 7. [C# language: Concurrency(multithreading)](https://medium.com/@sawomirkowalski/c-language-concurrency-multithreading-40103c82284)
 Typically, applications or programs on a computer or phone perform more than one operation, this is called concurrency, we will first discuss the basics of concurrency, ie threads and tasks, and in the next lesson we will go to asynchrony.
+
+8. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)
+Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources.
