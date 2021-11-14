@@ -30,3 +30,6 @@ Typically, applications or programs on a computer or phone perform more than one
 
 8. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)
 Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources.
+
+9. [Linux from Scratch – Is it worth it?](https://0xc0decafe.com/linux-from-scratch-is-it-worth-it/)
+LFS is an online book that guides you through the whole process of building your own minimal Linux system. 
