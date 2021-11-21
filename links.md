@@ -33,3 +33,6 @@ Process Synchronization is the task of coordinating the execution of processes i
 
 9. [Linux from Scratch – Is it worth it?](https://0xc0decafe.com/linux-from-scratch-is-it-worth-it/)
 LFS is an online book that guides you through the whole process of building your own minimal Linux system. 
+
+10. [(Almost) Everything You Need to Know About RAID](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
+Steadfast has been providing dedicated servers with RAID configurations for at least a decade, and while RAID is a widely used technology, how it is implemented has changed a great deal with the advent of Solid State Drives (SSDs).
